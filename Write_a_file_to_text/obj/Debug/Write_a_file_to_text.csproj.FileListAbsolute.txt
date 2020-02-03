@@ -1,0 +1,2 @@
+C:\Users\1393227\Desktop\Write_a_file_to_text\Write_a_file_to_text\obj\Debug\Write_a_file_to_text.csprojAssemblyReference.cache
+C:\Users\1393227\Desktop\Write_a_file_to_text\Write_a_file_to_text\obj\Debug\Write_a_file_to_text.csproj.CoreCompileInputs.cache
